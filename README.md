@@ -27,6 +27,7 @@ Python/Django, Javascript/Vue 3
 Social Media Accounts:
 ---------------------
 https://www.linkedin.com/in/adam-starrh-6129423
+
 https://twitter.com/adamstarrh
 
 
